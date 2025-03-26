@@ -5,4 +5,9 @@
     <string name="tinggi">Tinggi</string>
     <string name="hitung_bar_volume">Hitung Bar Volume</string>
     <string name="hasil_volume">Hasil Volume</string>
+    <string name="nama_putu_rifki_dirkayuda">Nama: Putu Rifki Dirkayuda</string>
+    <string name="nim_2305551068">NIM: 2305551068</string>
+    <string name="mata_kuliah_pemrograman_mobile_a">Mata Kuliah: Pemrograman Mobile (A)</string>
+    <string name="app_hitung_volume">App Hitung Volume</string>
+    <string name="hitung_volume_bar">Hitung Volume Bar</string>
 </resources>

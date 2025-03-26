@@ -11,6 +11,33 @@
     tools:context=".MainActivity">
 
     <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="@string/nama_putu_rifki_dirkayuda" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="@string/nim_2305551068" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:textStyle="bold"
+        android:text="@string/mata_kuliah_pemrograman_mobile_a" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="24dp"
+        android:gravity="center"
+        android:text="@string/hitung_volume_bar"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
         android:text="@string/panjang" />
@@ -20,6 +47,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="numberDecimal"
+        android:background="@drawable/rounded_edittext"
         android:lines="1" />
 
     <TextView
@@ -32,6 +60,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="numberDecimal"
+        android:background="@drawable/rounded_edittext"
         android:lines="1" />
 
     <TextView
@@ -44,6 +73,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:inputType="numberDecimal"
+        android:background="@drawable/rounded_edittext"
         android:lines="1" />
 
     <Button
