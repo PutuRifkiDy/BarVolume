@@ -48,6 +48,8 @@
         android:layout_height="wrap_content"
         android:inputType="numberDecimal"
         android:background="@drawable/rounded_edittext"
+        android:layout_marginBottom="5dp"
+        android:padding="5dp"
         android:lines="1" />
 
     <TextView
@@ -61,6 +63,8 @@
         android:layout_height="wrap_content"
         android:inputType="numberDecimal"
         android:background="@drawable/rounded_edittext"
+        android:layout_marginBottom="5dp"
+        android:padding="5dp"
         android:lines="1" />
 
     <TextView
@@ -74,6 +78,8 @@
         android:layout_height="wrap_content"
         android:inputType="numberDecimal"
         android:background="@drawable/rounded_edittext"
+        android:layout_marginBottom="10dp"
+        android:padding="5dp"
         android:lines="1" />
 
     <Button
@@ -89,6 +95,7 @@
         android:gravity="center"
         android:text="@string/hasil_volume"
         android:textSize="24sp"
+        android:layout_marginTop="5dp"
         android:textStyle="bold" />
 
 </LinearLayout>
